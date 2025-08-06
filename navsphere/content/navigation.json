@@ -28,6 +28,14 @@
           "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
           "icon": "/assets/images/logos/cloudflar.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754519467032_ewn8zb80i",
+          "title": "微软邮箱",
+          "href": "https://outlook.live.com/mail/0/",
+          "description": "Outlook电子邮件服务",
+          "icon": "/assets/favicon_1754519410503.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
