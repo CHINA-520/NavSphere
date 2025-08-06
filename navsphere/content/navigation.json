@@ -72,6 +72,14 @@
           "description": "科学技术大学测速",
           "icon": "/assets/favicon_1754519162248.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754519362015_3t6b5ympy",
+          "title": "IP 纯净度",
+          "href": "https://scamalytics.com/ip",
+          "description": "基于IP地址进行欺诈检测",
+          "icon": "/assets/favicon_1754519260221.png",
+          "enabled": true
         }
       ],
       "subCategories": []
