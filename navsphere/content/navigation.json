@@ -36,6 +36,14 @@
           "description": "Outlook电子邮件服务",
           "icon": "/assets/favicon_1754519410503.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754519584987_oyrlpbhxu",
+          "title": "YouTube",
+          "href": "https://www.youtube.com",
+          "description": "YouTube视频分享平台",
+          "icon": "/assets/favicon_1754519531755.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
