@@ -126,7 +126,7 @@
           "title": "IP地址查询",
           "href": "https://iplark.com",
           "description": "高精度IP归属地查询工具",
-          "icon": "",
+          "icon": "https://mao-nav-86o.pages.dev/sitelogo/iplark.com.ico",
           "enabled": true
         },
         {
