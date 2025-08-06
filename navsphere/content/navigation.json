@@ -123,6 +123,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1754521073887",
+      "title": "云盘存储",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
