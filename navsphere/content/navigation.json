@@ -22,6 +22,14 @@
           "enabled": true
         },
         {
+          "id": "1754508495810",
+          "title": "Gmail邮箱",
+          "href": "https://mail.google.com/mail/u/0/#inbox",
+          "description": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+          "icon": "/assets/favicon_1754508550342.ico",
+          "enabled": true
+        },
+        {
           "id": "1_3",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/",
@@ -91,14 +99,6 @@
           "href": "https://lucide.dev/",
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
-          "enabled": true
-        },
-        {
-          "id": "1754508495810",
-          "title": "Gmail邮箱",
-          "href": "https://mail.google.com/mail/u/0/#inbox",
-          "description": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
-          "icon": "/assets/favicon_1754508550342.ico",
           "enabled": true
         }
       ],
