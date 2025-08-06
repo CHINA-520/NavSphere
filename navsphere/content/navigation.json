@@ -138,6 +138,14 @@
           "description": "将您的照片、文档和视频带到任何地方，并确保您的文件安全保存。",
           "icon": "/assets/favicon_1754521167739.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754521318191_uv9kakhg8",
+          "title": "InfiniCLOUD",
+          "href": "https://infini-cloud.net/",
+          "description": "自主管理的一体云存储",
+          "icon": "/assets/favicon_1754521284799.png",
+          "enabled": true
         }
       ],
       "subCategories": []
