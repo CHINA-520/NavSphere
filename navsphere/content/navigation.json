@@ -6,6 +6,14 @@
       "icon": "Star",
       "items": [
         {
+          "id": "1754508495810",
+          "title": "Gmail邮箱",
+          "href": "https://mail.google.com/mail/u/0/#inbox",
+          "description": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+          "icon": "/assets/favicon_1754508550342.ico",
+          "enabled": true
+        },
+        {
           "id": "1_2",
           "title": "Vercel",
           "href": "https://vercel.com/",
@@ -19,14 +27,6 @@
           "href": "https://analytics.google.com/",
           "description": "Google分析（Google Analytics）是一个由Google所提供的网站流量统计服务。",
           "icon": "/assets/images/logos/analytics.ico",
-          "enabled": true
-        },
-        {
-          "id": "1754508495810",
-          "title": "Gmail邮箱",
-          "href": "https://mail.google.com/mail/u/0/#inbox",
-          "description": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
-          "icon": "/assets/favicon_1754508550342.ico",
           "enabled": true
         },
         {
