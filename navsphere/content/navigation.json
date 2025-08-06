@@ -10,7 +10,7 @@
           "title": "Gmail邮箱",
           "href": "https://mail.google.com/mail/u/0/#inbox",
           "description": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
-          "icon": "/assets/favicon_1754508550342.ico",
+          "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/",
           "enabled": true
         },
         {
