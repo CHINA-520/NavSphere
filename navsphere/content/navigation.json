@@ -118,16 +118,7 @@
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
-      "items": [
-        {
-          "id": "site_1754512928617_srols39mq",
-          "title": "Internet Speed Test | Check Broadband Speed | Google Fiber",
-          "href": "https://fiber.google.com/speedtest",
-          "description": "测试一下你目前的网速，看看你的宽带wi-fi处理上传和下载的速度有多快。请参阅谷歌光纤计划选项以获得更快的互联网。",
-          "icon": "/assets/favicon_1754512888566.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "cbb3e33d-408b-41ba-9e9a-e0444303e3fd",
@@ -190,6 +181,14 @@
               "href": "https://www.speedtest.net/",
               "description": "测试您的互联网速度",
               "icon": "/assets/favicon_1754513016394.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754512928617_srols39mq",
+              "title": "Google测速",
+              "href": "https://fiber.google.com/speedtest",
+              "description": "测试一下你目前的网速，看看你的宽带wi-fi处理上传和下载的速度有多快。请参阅谷歌光纤计划选项以获得更快的互联网。",
+              "icon": "/assets/favicon_1754512888566.ico",
               "enabled": true
             }
           ]
