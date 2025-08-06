@@ -128,6 +128,14 @@
           "description": "高精度IP归属地查询工具",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "site_1754513101301_36yqlkzt5",
+          "title": "Speedtest测速",
+          "href": "https://www.speedtest.net/",
+          "description": "测试您的互联网速度",
+          "icon": "/assets/favicon_1754513016394.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
@@ -183,14 +191,6 @@
               "href": "https://www.perplexity.ai/",
               "description": "一个人工智能助手，旨在为您提供信息、解答问题和帮助您完成各种任务。",
               "icon": "/assets/img_1739871936809.png",
-              "enabled": true
-            },
-            {
-              "id": "site_1754513101301_36yqlkzt5",
-              "title": "Speedtest测速",
-              "href": "https://www.speedtest.net/",
-              "description": "测试您的互联网速度",
-              "icon": "/assets/favicon_1754513016394.ico",
               "enabled": true
             },
             {
