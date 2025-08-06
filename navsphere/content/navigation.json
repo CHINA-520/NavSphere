@@ -10,7 +10,7 @@
           "title": "Gmail邮箱",
           "href": "https://mail.google.com/mail/u/0/#inbox",
           "description": "Gmail 是一款直观、高效且实用的电子邮件服务。提供 15GB 存储空间、减少垃圾邮件以及移动设备访问功能。",
-          "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/",
+          "icon": "/assets/favicon_1754509868043.ico",
           "enabled": true
         },
         {
