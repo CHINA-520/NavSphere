@@ -115,6 +115,15 @@
       "enabled": true
     },
     {
+      "id": "1754513686351",
+      "title": "软件工具",
+      "icon": "Settings",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -882,15 +891,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754513686351",
-      "title": "软件工具",
-      "icon": "Settings",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
