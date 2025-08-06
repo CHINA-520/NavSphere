@@ -100,6 +100,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "1754509284561",
+          "title": "Google表格",
+          "href": "https://docs.google.com/spreadsheets/u/0/",
+          "description": "使用个人 Google 账户或 Google Workspace 账户（用于商业用途）访问 Google 表格。",
+          "icon": "/assets/favicon_1754509296470.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
