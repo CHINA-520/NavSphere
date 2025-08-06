@@ -44,6 +44,14 @@
           "description": "YouTube视频分享平台",
           "icon": "/assets/favicon_1754519531755.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754520093900_vawpvvv28",
+          "title": "Twitter·推特",
+          "href": "https://x.com/home",
+          "description": "X:Twitter社交媒体平台",
+          "icon": "/assets/favicon_1754520025563.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
