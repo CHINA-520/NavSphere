@@ -104,6 +104,14 @@
           "description": "测试您的网络连接。使用我们的网络速度测试来检查您的网络性能。该测试由 Cloudflare 的全球边缘网络提供支持。",
           "icon": "/assets/favicon_1754519760358.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754519949511_oqxyr4ohe",
+          "title": "汇率换算器 | 外汇汇率 | Wise",
+          "href": "https://wise.com/zh-cn/currency-converter",
+          "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
+          "icon": "/assets/favicon_1754519947073.png",
+          "enabled": true
         }
       ],
       "subCategories": []
