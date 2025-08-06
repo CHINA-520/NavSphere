@@ -134,6 +134,14 @@
           "description": "测试一下你目前的网速，看看你的宽带wi-fi处理上传和下载的速度有多快。请参阅谷歌光纤计划选项以获得更快的互联网。",
           "icon": "/assets/favicon_1754512888566.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754513101301_36yqlkzt5",
+          "title": "Speedtest测速",
+          "href": "https://www.speedtest.net/",
+          "description": "测试您的互联网速度",
+          "icon": "/assets/favicon_1754513016394.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
