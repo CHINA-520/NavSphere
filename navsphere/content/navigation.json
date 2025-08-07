@@ -172,6 +172,14 @@
               "description": "银行在办理跨境转账时收费颇高。而我们则不同，我们的转账费用很低，能够让您轻松快捷地进行跨境汇款。",
               "icon": "/assets/favicon_1754525850677.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754526601867_7de7vczlo",
+              "title": "PayPal US",
+              "href": "https://www.paypal.com/us/home",
+              "description": "无论是向朋友支付款项、节省开支，还是在购物时获得返现，快来探索一下这款全新的 PayPal 应用程序所提供的各种服务吧。",
+              "icon": "/assets/favicon_1754526555205.png",
+              "enabled": true
             }
           ]
         },
