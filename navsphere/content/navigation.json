@@ -156,7 +156,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754525167139_1la0512y0",
+          "title": "SwissQuote 瑞讯银行",
+          "href": "https://trade.swissquote.ch/my.policy",
+          "description": "",
+          "icon": "/assets/favicon_1754525132510.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
