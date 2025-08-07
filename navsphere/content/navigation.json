@@ -6,6 +6,14 @@
       "icon": "Home",
       "items": [
         {
+          "id": "site_1754519584987_oyrlpbhxu",
+          "title": "YouTube",
+          "href": "https://www.youtube.com",
+          "description": "YouTube视频分享平台",
+          "icon": "/assets/favicon_1754519531755.png",
+          "enabled": true
+        },
+        {
           "id": "1754508495810",
           "title": "Gmail邮箱",
           "href": "https://mail.google.com/mail/u/0/#inbox",
@@ -27,14 +35,6 @@
           "href": "https://outlook.live.com/mail/0/",
           "description": "Outlook电子邮件服务",
           "icon": "/assets/favicon_1754519410503.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1754519584987_oyrlpbhxu",
-          "title": "YouTube",
-          "href": "https://www.youtube.com",
-          "description": "YouTube视频分享平台",
-          "icon": "/assets/favicon_1754519531755.png",
           "enabled": true
         },
         {
