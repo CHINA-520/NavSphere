@@ -240,7 +240,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754550605708_32bmgs3hs",
+          "title": "DeepSeek",
+          "href": "https://ai-chatbot.top",
+          "description": "满血版DeepSeek，支持实时对话、深度思考和联网搜索。完全免费且无限制使用",
+          "icon": "https://ai-chatbot.top/images/logo.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
