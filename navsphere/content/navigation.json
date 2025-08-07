@@ -146,14 +146,6 @@
           "enabled": true
         },
         {
-          "id": "site_1754569131823_d9j9lj0qe",
-          "title": "二维码识别",
-          "href": "https://qr.codeboy.me/",
-          "description": "可直接剪切板粘贴二维码图片",
-          "icon": "/assets/favicon_1754569086974.png",
-          "enabled": true
-        },
-        {
           "id": "site_1754583489033_cspfxyb6m",
           "title": "网络测速",
           "href": "https://fast.com/",
@@ -196,7 +188,16 @@
       "icon": "LayoutGrid",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754569131823_d9j9lj0qe",
+          "title": "二维码识别",
+          "href": "https://qr.codeboy.me/",
+          "description": "可直接剪切板粘贴二维码图片",
+          "icon": "/assets/favicon_1754569086974.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
