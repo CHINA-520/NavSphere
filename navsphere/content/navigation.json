@@ -156,16 +156,7 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1754525167139_1la0512y0",
-          "title": "SwissQuote 瑞讯银行",
-          "href": "https://trade.swissquote.ch/my.policy",
-          "description": "",
-          "icon": "/assets/favicon_1754525463416.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "1bbe25a3-1f81-4d71-ba23-f68aee187742",
@@ -213,6 +204,14 @@
               "href": "https://my.dukascopy.bank/#/login",
               "description": "",
               "icon": "/assets/favicon_1754525427709.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754525167139_1la0512y0",
+              "title": "SwissQuote 瑞讯银行",
+              "href": "https://trade.swissquote.ch/my.policy",
+              "description": "",
+              "icon": "/assets/favicon_1754525463416.ico",
               "enabled": true
             }
           ]
