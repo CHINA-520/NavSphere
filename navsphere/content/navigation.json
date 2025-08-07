@@ -58,7 +58,7 @@
           "title": "GitHub",
           "href": "https://github.com",
           "description": "全球应用最广泛的、由人工智能驱动的开发者平台吧，在这里，数以百万计的开发者、企业以及规模庞大的开源社区共同开发能够推动人类进步的软件。",
-          "icon": "https://github.githubassets.com/favicons/favicon",
+          "icon": "/assets/img_1754586360007.png",
           "enabled": true
         }
       ],
