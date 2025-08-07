@@ -188,14 +188,6 @@
           "description": "IFAST银行 英国IFAST网上银行！",
           "icon": "/assets/favicon_1754525572526.ico",
           "enabled": true
-        },
-        {
-          "id": "site_1754525891837_kei0t4wda",
-          "title": "Wise ",
-          "href": "https://wise.com/login",
-          "description": "银行在办理跨境转账时收费颇高。而我们则不同，我们的转账费用很低，能够让您轻松快捷地进行跨境汇款。",
-          "icon": "/assets/favicon_1754525850677.png",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -205,7 +197,16 @@
           "icon": "Network",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754525891837_kei0t4wda",
+              "title": "Wise ",
+              "href": "https://wise.com/login",
+              "description": "银行在办理跨境转账时收费颇高。而我们则不同，我们的转账费用很低，能够让您轻松快捷地进行跨境汇款。",
+              "icon": "/assets/favicon_1754525850677.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "ec70f497-1846-4cf4-a2bb-26bf44dccc94",
