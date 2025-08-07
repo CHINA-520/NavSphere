@@ -164,14 +164,6 @@
           "description": "",
           "icon": "/assets/favicon_1754525463416.ico",
           "enabled": true
-        },
-        {
-          "id": "site_1754525224782_ld0req8ux",
-          "title": "Dukascopy Bank MCA杜高斯贝",
-          "href": "https://my.dukascopy.bank/#/login",
-          "description": "",
-          "icon": "/assets/favicon_1754525427709.ico",
-          "enabled": true
         }
       ],
       "subCategories": [
@@ -213,6 +205,14 @@
               "href": "https://www.ocbc.com/personal-banking/home",
               "description": "新加坡华侨银行为您提供全方位的个人银行业务产品及服务，满足您的一切金融需求。选择华侨银行，即可轻松管理并增值您的财富。了解更多。",
               "icon": "/assets/favicon_1754525353696.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754525224782_ld0req8ux",
+              "title": "Dukascopy Bank MCA杜高斯贝",
+              "href": "https://my.dukascopy.bank/#/login",
+              "description": "",
+              "icon": "/assets/favicon_1754525427709.ico",
               "enabled": true
             }
           ]
