@@ -114,19 +114,19 @@
           "enabled": true
         },
         {
-          "id": "site_1754519949511_oqxyr4ohe",
-          "title": "汇率换算器",
-          "href": "https://wise.com/zh-cn/currency-converter",
-          "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
-          "icon": "/assets/favicon_1754519947073.png",
-          "enabled": true
-        },
-        {
           "id": "site_1754583489033_cspfxyb6m",
           "title": "网络测速",
           "href": "https://fast.com/",
           "description": "您的下载速度有多快？只需几秒钟，FAST.com 的简单网络速度测试就能估算出您的网络服务提供商的网速。",
           "icon": "/assets/favicon_1754583320402.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754519949511_oqxyr4ohe",
+          "title": "汇率换算器",
+          "href": "https://wise.com/zh-cn/currency-converter",
+          "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
+          "icon": "/assets/favicon_1754519947073.png",
           "enabled": true
         }
       ],
