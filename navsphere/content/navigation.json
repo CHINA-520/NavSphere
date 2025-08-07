@@ -180,6 +180,14 @@
               "description": "无论是向朋友支付款项、节省开支，还是在购物时获得返现，快来探索一下这款全新的 PayPal 应用程序所提供的各种服务吧。",
               "icon": "/assets/favicon_1754526555205.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754526744469_80v7fia8c",
+              "title": "Epay 易派",
+              "href": "https://www.epay.com/",
+              "description": "Epay 为全球企业提供定制化的支付服务，包括 API 网关、货币兑换及结算等服务。",
+              "icon": "/assets/favicon_1754526676702.ico",
+              "enabled": true
             }
           ]
         },
