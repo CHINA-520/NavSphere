@@ -151,15 +151,6 @@
       "subCategories": []
     },
     {
-      "id": "1754525974799",
-      "title": "💰数字银行",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
       "id": "1754525088236",
       "title": "🏦网银钱包",
       "icon": "FolderKanban",
@@ -207,6 +198,15 @@
           "enabled": true
         }
       ],
+      "subCategories": []
+    },
+    {
+      "id": "1754525974799",
+      "title": "💰数字银行",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
       "subCategories": []
     }
   ]
