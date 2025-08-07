@@ -60,6 +60,14 @@
           "description": "全球应用最广泛的、由人工智能驱动的开发者平台吧，在这里，数以百万计的开发者、企业以及规模庞大的开源社区共同开发能够推动人类进步的软件。",
           "icon": "/assets/img_1754586360007.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754592522004_r95o32r89",
+          "title": "Google搜索",
+          "href": "https://www.google.com",
+          "description": "Google 搜索是由 Google LLC 提供的一项网络搜索引擎服务。它允许用户通过输入关键词或短语来查找互联网上的信息。Google 搜索是世界上最受欢迎和广泛使用的搜索引擎之一，每天处理数十亿次查询。",
+          "icon": "https://favicon.zhusl.com/ico?url=https://www.google.com",
+          "enabled": true
         }
       ],
       "subCategories": [],
