@@ -206,6 +206,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "ec70f497-1846-4cf4-a2bb-26bf44dccc94",
+          "title": "🏦数字银行",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
