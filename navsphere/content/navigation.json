@@ -227,7 +227,7 @@
               "title": "SwissQuote 瑞讯银行",
               "href": "https://trade.swissquote.ch/my.policy",
               "description": "",
-              "icon": "/assets/favicon_1754525463416.ico",
+              "icon": "https://mao-nav-86o.pages.dev/sitelogo/trade.swissquote.ch.ico",
               "enabled": true
             }
           ]
