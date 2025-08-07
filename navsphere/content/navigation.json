@@ -199,6 +199,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1754525974799",
+      "title": "💰数字银行",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
