@@ -149,6 +149,32 @@
       "subCategories": []
     },
     {
+      "id": "1754550401823",
+      "title": "🤖AI智能助手",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1754550605708_32bmgs3hs",
+          "title": "DeepSeek",
+          "href": "https://ai-chatbot.top",
+          "description": "满血版DeepSeek，支持实时对话、深度思考和联网搜索。完全免费且无限制使用",
+          "icon": "https://ai-chatbot.top/images/logo.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754550738925_9a7c40ija",
+          "title": "Microsoft Copilot",
+          "href": "https://copilot.microsoft.com/chats/2WNdga9tWHRCMWU3SrBYD",
+          "description": "微软“Copilot”是您的贴心伙伴，能为您提供信息、带来娱乐并激发灵感。您可以获取建议、获得反馈以及得到简洁明了的答案。现在就试用“Copilot”吧。",
+          "icon": "/assets/favicon_1754550638875.ico",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "1754521073887",
       "title": "🔐云盘存储",
       "icon": "FolderKanban",
@@ -257,32 +283,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754550401823",
-      "title": "🤖AI智能助手",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1754550605708_32bmgs3hs",
-          "title": "DeepSeek",
-          "href": "https://ai-chatbot.top",
-          "description": "满血版DeepSeek，支持实时对话、深度思考和联网搜索。完全免费且无限制使用",
-          "icon": "https://ai-chatbot.top/images/logo.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1754550738925_9a7c40ija",
-          "title": "Microsoft Copilot",
-          "href": "https://copilot.microsoft.com/chats/2WNdga9tWHRCMWU3SrBYD",
-          "description": "微软“Copilot”是您的贴心伙伴，能为您提供信息、带来娱乐并激发灵感。您可以获取建议、获得反馈以及得到简洁明了的答案。现在就试用“Copilot”吧。",
-          "icon": "/assets/favicon_1754550638875.ico",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "1754525974799",
