@@ -151,6 +151,15 @@
       "subCategories": []
     },
     {
+      "id": "1754525974799",
+      "title": "⚡️其他收藏",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1754525088236",
       "title": "🏦网银钱包",
       "icon": "FolderKanban",
@@ -233,15 +242,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754525974799",
-      "title": "⚡️其他收藏",
-      "icon": "FolderOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
