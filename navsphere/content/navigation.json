@@ -149,6 +149,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1754525088236",
+      "title": "🏦网银钱包",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
