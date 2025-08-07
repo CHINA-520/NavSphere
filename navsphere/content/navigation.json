@@ -219,7 +219,7 @@
           "id": "site_1754521218389_v5vekxd3l",
           "title": "Dropbox",
           "href": "https://www.dropbox.com/home",
-          "description": "云存储和文件同步服务",
+          "description": "Dropbox 是一款由 Dropbox, Inc. 开发的云存储和文件同步服务。它允许用户在多个设备之间同步文件和文件夹，并提供在线存储空间。",
           "icon": "/assets/favicon_1754521167739.ico",
           "enabled": true
         },
