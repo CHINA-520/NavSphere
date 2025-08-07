@@ -136,6 +136,14 @@
           "description": "将高质量（720p，1080p，2k，4k）的YouTube视频下载到各种格式（MP4，MP3，3GP，WebM，M4A）。无需广告或应用。",
           "icon": "/assets/favicon_1754569021415.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754569131823_d9j9lj0qe",
+          "title": "二维码识别",
+          "href": "https://qr.codeboy.me/",
+          "description": "可直接剪切板粘贴二维码图片",
+          "icon": "/assets/favicon_1754569086974.png",
+          "enabled": true
         }
       ],
       "subCategories": []
