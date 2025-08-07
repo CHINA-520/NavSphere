@@ -191,6 +191,15 @@
       "subCategories": []
     },
     {
+      "id": "1754525974799",
+      "title": "🌐网络相关",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1754521073887",
       "title": "🔐云盘存储",
       "icon": "FolderKanban",
@@ -299,15 +308,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754525974799",
-      "title": "🌐网络相关",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
