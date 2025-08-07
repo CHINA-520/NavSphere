@@ -198,7 +198,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "1bbe25a3-1f81-4d71-ba23-f68aee187742",
+          "title": "💰数字钱包",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754525974799",
