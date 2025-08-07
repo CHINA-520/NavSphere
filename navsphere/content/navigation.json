@@ -164,6 +164,14 @@
           "description": "",
           "icon": "/assets/favicon_1754525132510.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1754525224782_ld0req8ux",
+          "title": "Dukascopy Bank MCA",
+          "href": "https://my.dukascopy.bank/#/login",
+          "description": "",
+          "icon": "/assets/favicon_1754525220272.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
