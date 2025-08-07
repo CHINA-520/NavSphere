@@ -120,6 +120,14 @@
           "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
           "icon": "/assets/favicon_1754519947073.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754568933665_fw9cnnbns",
+          "title": "全球时间",
+          "href": "https://time.is/",
+          "description": "700 万个地点，58 种语言，与原子钟时间同步。",
+          "icon": "/assets/favicon_1754568856543.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
