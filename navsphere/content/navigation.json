@@ -272,6 +272,14 @@
               "description": "Epay 为全球企业提供定制化的支付服务，包括 API 网关、货币兑换及结算等服务。",
               "icon": "/assets/favicon_1754526676702.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754591626151_43p2t4gwh",
+              "title": "Kraken",
+              "href": "https://www.kraken.com/",
+              "description": "在 Kraken 这个受监管且安全的加密货币交易平台上，您可以购买、出售、交易以及存储您的加密货币。",
+              "icon": "/assets/favicon_1754591438244.png",
+              "enabled": true
             }
           ]
         },
