@@ -207,19 +207,19 @@
               "enabled": true
             },
             {
-              "id": "site_1754525224782_ld0req8ux",
-              "title": "Dukascopy Bank MCA杜高斯贝",
-              "href": "https://my.dukascopy.bank/#/login",
-              "description": "",
-              "icon": "/assets/favicon_1754525427709.ico",
-              "enabled": true
-            },
-            {
               "id": "site_1754525167139_1la0512y0",
               "title": "SwissQuote 瑞讯银行",
               "href": "https://trade.swissquote.ch/my.policy",
               "description": "",
               "icon": "https://mao-nav-86o.pages.dev/sitelogo/trade.swissquote.ch.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754525224782_ld0req8ux",
+              "title": "Dukascopy Bank MCA杜高斯贝",
+              "href": "https://my.dukascopy.bank/#/login",
+              "description": "",
+              "icon": "/assets/favicon_1754525427709.ico",
               "enabled": true
             },
             {
