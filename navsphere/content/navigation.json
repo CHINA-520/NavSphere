@@ -254,6 +254,14 @@
           "description": "InfiniCLOUD 是一个基于云计算的存储和数据管理平台，旨在为用户提供安全、可靠且高效的云存储解决方案。",
           "icon": "/assets/favicon_1754521284799.png",
           "enabled": true
+        },
+        {
+          "id": "site_1754670361128_6b1xbv4js",
+          "title": "Google 云端硬盘",
+          "href": "https://drive.google.com/drive/home",
+          "description": "Google 云端硬盘（Google Drive） 是谷歌公司推出的一款云存储服务，允许用户存储、管理和共享文件和数据。它为用户提供了一个安全、便捷的在线存储空间，用户可以通过电脑、手机或平板等多种设备访问和管理自己的文件",
+          "icon": "/assets/favicon_1754670257805.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
