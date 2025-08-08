@@ -320,6 +320,14 @@
               "description": "Wirex 是一个数字支付平台，其使命是让加密货币和传统货币平等且人人可用。",
               "icon": "/assets/favicon_1754671360829.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754671572781_of358957z",
+              "title": "volet",
+              "href": "https://account.volet.com/login",
+              "description": "功能丰富的支付平台。轻松发送、接收、兑换、消费和管理您的数字货币",
+              "icon": "/assets/favicon_1754671494183.ico",
+              "enabled": true
             }
           ]
         },
