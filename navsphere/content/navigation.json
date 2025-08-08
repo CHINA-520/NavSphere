@@ -312,6 +312,14 @@
               "description": "在 Kraken 这个受监管且安全的加密货币交易平台上，您可以购买、出售、交易以及存储您的加密货币。",
               "icon": "/assets/favicon_1754591438244.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754671389716_gkgq21j3u",
+              "title": "Wirex",
+              "href": "https://id.wirexapp.com/login",
+              "description": "Wirex 是一个数字支付平台，其使命是让加密货币和传统货币平等且人人可用。",
+              "icon": "/assets/favicon_1754671360829.png",
+              "enabled": true
             }
           ]
         },
