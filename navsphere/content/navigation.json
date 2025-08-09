@@ -206,19 +206,19 @@
           "enabled": true
         },
         {
-          "id": "site_1754670196692_wexxqo27l",
-          "title": "临时邮箱",
-          "href": "https://smail.pw",
-          "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
-          "icon": "/assets/favicon_1754670182168.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1754519949511_oqxyr4ohe",
           "title": "汇率换算器",
           "href": "https://wise.com/zh-cn/currency-converter",
           "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
           "icon": "/assets/favicon_1754519947073.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754670196692_wexxqo27l",
+          "title": "临时邮箱",
+          "href": "https://smail.pw",
+          "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
+          "icon": "/assets/favicon_1754670182168.ico",
           "enabled": true
         },
         {
