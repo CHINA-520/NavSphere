@@ -214,19 +214,19 @@
           "enabled": true
         },
         {
-          "id": "site_1754670196692_wexxqo27l",
-          "title": "临时邮箱",
-          "href": "https://smail.pw",
-          "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
-          "icon": "/assets/favicon_1754670182168.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1754595355406_5gt8ss2h6",
           "title": "SWIFT代码",
           "href": "https://bank-codes-hk.com/swift-code-checker/",
           "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
           "icon": "/assets/favicon_1754595165078.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754670196692_wexxqo27l",
+          "title": "临时邮箱",
+          "href": "https://smail.pw",
+          "description": "Smail临时邮箱生成器提供免费一次性邮箱服务，24小时邮箱地址无需注册即可使用。专业临时邮件解决方案，保护隐私，防止垃圾邮件。立即生成临时邮箱！",
+          "icon": "/assets/favicon_1754670182168.ico",
           "enabled": true
         }
       ],
