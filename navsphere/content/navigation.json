@@ -136,14 +136,6 @@
           "description": "您的下载速度有多快？只需几秒钟，FAST.com 的简单网络速度测试就能估算出您的网络服务提供商的网速。",
           "icon": "/assets/favicon_1754583320402.png",
           "enabled": true
-        },
-        {
-          "id": "site_1754595355406_5gt8ss2h6",
-          "title": "SWIFT代码",
-          "href": "https://bank-codes-hk.com/swift-code-checker/",
-          "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
-          "icon": "/assets/favicon_1754595165078.png",
-          "enabled": true
         }
       ],
       "subCategories": []
@@ -227,6 +219,14 @@
           "href": "https://wise.com/zh-cn/currency-converter",
           "description": "免费查看最新的外汇汇率广告，并使用 Wise 汇率换算器兑换世界主要货币。",
           "icon": "/assets/favicon_1754519947073.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1754595355406_5gt8ss2h6",
+          "title": "SWIFT代码",
+          "href": "https://bank-codes-hk.com/swift-code-checker/",
+          "description": "SWIFT代码工具会根据我们载有10万组独特SWIFT代码的数据库，检查你输入的SWIFT代码是否有效。",
+          "icon": "/assets/favicon_1754595165078.png",
           "enabled": true
         }
       ],
